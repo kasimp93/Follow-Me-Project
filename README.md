@@ -1,0 +1,2 @@
+# Follow-Me-Project
+The Follow Me project is a prototype embedded system that would help people achieve higher mobility near or around their home by providing a small electric car that will help carry items for you and follow wherever you go. With the use of a Gumstix Verdex, and Raspberry Pi and the software development done in C for Linux Kernel, C++ and Python we were able to build a prototype car that would follow a target.
